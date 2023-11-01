@@ -389,7 +389,7 @@ public class MainScreen extends javax.swing.JFrame {
                 taskController.update(task); //chama o método de atualizar essa tarefa
                 break;
             case 4:
-
+                
                 break;
             case 5:
                 taskController.removeById(task.getId());  //exclui a tarefa selecionada
